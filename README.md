@@ -3,7 +3,7 @@
 **`Software Developer`**
 
 
-Full stack developer with experience in React and NestJS. Passionate about technology, I constantly seek to improve my skills and apply the best practices in the IT market.
+Full stack developer with experience in React and NestJS. Passionate about technology, I constantly seek to improve my skills and apply the best practices.
 
 <p align="left">
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=tlopesdm&show_icons=true&locale=en&theme=dracula" alt="tlopesdm" /> -->
