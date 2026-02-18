@@ -3,7 +3,8 @@
 **`Software Developer`**
 
 
-Full stack developer with experience in React and NestJS. Passionate about technology, I constantly seek to improve my skills and apply the best practices.
+Former Frontend Dev, now trying to become a backend dev.
+In the processes of learning Java.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
